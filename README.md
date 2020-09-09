@@ -1,4 +1,4 @@
-# Populate()
+# populate()
 
  * In Mongoose, populate lets you pull in referenced documents from another collection. 
  * Populate is similar to a left outer join in SQL, but the difference is that populate happens in your Node.js application rather than on the database server.
